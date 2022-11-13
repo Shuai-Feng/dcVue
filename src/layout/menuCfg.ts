@@ -13,6 +13,15 @@ const menuCfg:ImenuCfgItem[] = [
             {
                 title:'按钮',
                 path:'/ui/button'
+            },{
+                title:'弹框',
+                path:'/ui/Modal'
+            },{
+                title:'loading',
+                path:'/ui/loading'
+            },{
+                title:'通知',
+                path:'/ui/notifycation'
             }
         ]
     },    {

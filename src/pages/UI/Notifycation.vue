@@ -1,3 +1,3 @@
 <template>
-    Button
+    notifyCation
 </template>

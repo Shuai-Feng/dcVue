@@ -3,7 +3,7 @@
         <a-layout-sider>
             <section class="logo">
                 <img src="/vite.svg" alt="">
-                <p>vue单车</p>
+                <p>Vue 单车</p>
             </section>
             <a-menu theme="dark">
                 <sub-menu
@@ -41,7 +41,7 @@
 
 <style scoped lang='less'>
 .logo {
-    height: 64px;
+    height: 90px;
     background: #002340;
     display: flex;
     align-items: center;
@@ -53,7 +53,7 @@
 
     p {
         color: #fff;
-        font-size: 18px;
+        font-size: 24px;
         margin-bottom: 0px;
     }
 }

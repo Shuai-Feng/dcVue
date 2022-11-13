@@ -17,13 +17,13 @@ const routes:RouteRecordRaw[] = [
                         component:()=>import('@/pages/UI/Button.vue')
                     },  {
                         path:'/ui/modal',
-                        component:()=>import('@/pages/UI/Button.vue')
+                        component:()=>import('@/pages/UI/Modal.vue')
                     },  {
                         path:'/ui/loading',
-                        component:()=>import('@/pages/UI/Button.vue')
+                        component:()=>import('@/pages/UI/Loading.vue')
                     },  {
                         path:'/ui/message',
-                        component:()=>import('@/pages/UI/Button.vue')
+                        component:()=>import('@/pages/UI/Notifycation.vue')
                     }
                 ]
             }
